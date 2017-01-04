@@ -11,7 +11,9 @@ import { Component } from '@angular/core';
    {{test + testS}}
 </h1>
 <app-databinding></app-databinding>
-<app-lifecycle></app-lifecycle>
+<app-lifecycle>
+ttestsetset ste 
+</app-lifecycle>
   `,
   styleUrls: ['./app.component.css']
 })
